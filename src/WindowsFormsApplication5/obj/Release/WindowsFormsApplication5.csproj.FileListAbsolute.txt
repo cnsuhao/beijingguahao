@@ -1,0 +1,13 @@
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.manifest
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.application
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Form1.resources
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Form2.resources
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Form3.resources
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.exe.manifest
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.application
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.exe
+C:\Users\jiangtao\Desktop\挂号\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.pdb
